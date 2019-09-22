@@ -2,7 +2,7 @@
 
 `Technical aspects 40%, Design 20%, Idea 30 %, Wow factor 10%`
 
-![]()
+![](https://raw.githubusercontent.com/Global-Travel-Hackathon/evaluation-criterias/master/evaluation-chart.png)
 
 ## Description:
 
